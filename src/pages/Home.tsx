@@ -13,7 +13,7 @@ export function Home() {
           Get deeper, more meaningful answers to your questions.
         </p>
         <a 
-          href="https://8ball.ekmand.dev" 
+          href="https://ask.eightball.dev" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="inline-block bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 rounded-full text-lg font-semibold transition-colors shadow-lg shadow-purple-500/25"
