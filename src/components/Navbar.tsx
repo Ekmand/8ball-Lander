@@ -12,7 +12,7 @@ export function Navbar() {
       <div className="flex gap-6">
         <Link to="/" className="hover:text-purple-400 transition-colors">Home</Link>
         <Link to="/about" className="hover:text-purple-400 transition-colors">About</Link>
-        <a href="https://github.com" className="hover:text-purple-400 transition-colors flex items-center gap-1">
+        <a href="https://github.com/Ekmand/eightball-AI" className="hover:text-purple-400 transition-colors flex items-center gap-1">
           <Github className="w-4 h-4" />
           GitHub
         </a>
