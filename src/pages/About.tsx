@@ -4,20 +4,10 @@ import { Wand2, Shield, Users, Star } from 'lucide-react';
 export function About() {
   const teamMembers = [
     {
-      name: "Dr. Sarah Chen",
-      role: "AI Research Lead",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200&h=200"
+      name: "Ethan Dutson",
+      role: "Main Developer",
+      image: "https://i1.sndcdn.com/avatars-15VzzU99aysOZbnW-uMg1Gg-t1080x1080.jpg"
     },
-    {
-      name: "Michael Rodriguez",
-      role: "ML Engineer",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200"
-    },
-    {
-      name: "Aisha Patel",
-      role: "UX Designer",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200&h=200"
-    }
   ];
 
   return (
